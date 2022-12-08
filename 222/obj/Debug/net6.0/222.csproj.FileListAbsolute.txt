@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\LLL555\222\bin\Debug\net6.0\222.exe
+C:\Users\Lenovo\Documents\LLL555\222\bin\Debug\net6.0\222.deps.json
+C:\Users\Lenovo\Documents\LLL555\222\bin\Debug\net6.0\222.runtimeconfig.json
+C:\Users\Lenovo\Documents\LLL555\222\bin\Debug\net6.0\222.dll
+C:\Users\Lenovo\Documents\LLL555\222\bin\Debug\net6.0\222.pdb
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.dll
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\refint\222.dll
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.pdb
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\222.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\LLL555\222\obj\Debug\net6.0\ref\222.dll
